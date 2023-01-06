@@ -1,7 +1,11 @@
-# yulugraft 👋
+# yulugraft 📟
 
 **`Front-end dev/Linux enthusiast`**
 
+Hi there! I am Yulu Graft a beginner Front-end coder and Linux enthusiast. All my projects shared here are made from scratch by me and the awesome community of coders who have helped me in this journey. This is a truely an adventure and I can't wait to start out! 
+
+
+ file:///home/writwikray/Desktop/tick.gif
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
