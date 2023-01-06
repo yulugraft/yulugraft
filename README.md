@@ -1,6 +1,6 @@
 # yulugraft 👋
 
-**'Front-end dev/Linux enthusiast'**
+**`Front-end dev/Linux enthusiast`**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
